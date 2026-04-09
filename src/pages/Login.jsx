@@ -97,7 +97,7 @@ function Login() {
         {/* Eyebrow */}
         <div className="auth-eyebrow">Student Activity Platform</div>
 
-        <h2>{isLogin ? "Welcome back 👋" : "Create Account"}</h2>
+        <h2>{isLogin ? "Welcome back " : "Create Account"}</h2>
         <p className="auth-card-sub">
           {isLogin
             ? "Sign in to access your dashboard and activities."
