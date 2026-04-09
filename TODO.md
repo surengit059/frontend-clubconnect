@@ -1,0 +1,1 @@
+# SPORTS_TRACKER Task: Replace useEffect in AdminDashboard.jsx&#10;&#10;## Steps:&#10;1. [ ] Create TODO.md (done)&#10;2. [ ] Edit AdminDashboard.jsx: Add loadActivities function&#10;3. [ ] Edit useEffect to call loadActivities()&#10;4. [ ] Test: cd sport &amp;&amp; npm run dev, check Admin dashboard&#10;5. [ ] attempt_completion&#10;
